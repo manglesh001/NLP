@@ -1,8 +1,15 @@
 # NLP Natural Language Processing
 <b>
-Computational linguistic <br>
-Modelling and Tokenization <br>
-Neural Network some Deep learning Concepts <br>
+<br>
+Language Modelling and Tokenization <br>
+Neural POS Tagger using Feed Forward Neural Network and Recurrenct Neural Network (LSTM) <br>
+Word Vectorization using SVD and SkipGram Negative sampling <br>
+ELMO using Bidirectional LSTM with Two Deep Stack <br>
+<br>
+##Project NLP
+Semantic Role Labelling using Hindi PropBank
+
+<br>
 <br>
 </b>
 Author -- MANGLESH PATIDAR IIITH 
